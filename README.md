@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity Engine C#
 - 💞️ I’m looking to collaborate on C# Development
-- 📫 How to reach me Email: joaovitorhagge@gmail.com | Discord: delsinkamary | Instagram: joaovitor_hagge
+- 📫 How to reach me Email: joaovitorhagge@protonmail.com | Discord: delsinkamary | Instagram: joaovitor_hagge
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
